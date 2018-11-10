@@ -1,0 +1,1 @@
+# wpf-datagrid-scrolling-performance-with-more-rows-and-columns
